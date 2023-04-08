@@ -1,7 +1,8 @@
 version: 2.1
 
 description: >
-  An orb to publish messages to webex rooms. More details to follow
+  An orb to publish messages to webex rooms. More details to follow.
+  In development: more to follow
 display:
   home_url: "https://github.com/Anasjabri/webex-orb/blob/master/README.md"
   source_url: "https://github.com/anasjabri/webex-orb"
