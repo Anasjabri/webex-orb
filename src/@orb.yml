@@ -1,7 +1,7 @@
 version: 2.1
 
 description: >
-  This is a webex notification orb
+  This is a webex notification orb. lets get this above sixty four characters. Keeping linter happy!!!!
 display:
   home_url: "https://github.com/anasjabri/webex-orb"
   source_url: "https://github.com/anasjabri/webex-orb"
